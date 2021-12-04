@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elijah Pemberton
-- 👀 I’m interested in advancing in my career 
-- 💞️ I’m currently collaborate on a discord bot with a few friends from college
+- I’m interested in advancing in my career 
+- I’m currently collaborating with few friends from college on creating a discord bot.
 
 
